@@ -1,0 +1,19 @@
+<resources>
+
+    <!--
+     文案类别前缀规范:
+    报错类: err_
+    提示类: msg_
+    状态类: sta_
+    控件显示:cap_
+-->
+
+    <string name="app_name">Demo-Retrofit</string>
+
+    <!-- 底部栏(tabhost)-->
+    <string name="cap_bb_menu_00">微信</string>
+    <string name="cap_bb_menu_01">通讯录</string>
+    <string name="cap_bb_menu_02">发现</string>
+    <string name="cap_bb_menu_03">我</string>
+
+</resources>
