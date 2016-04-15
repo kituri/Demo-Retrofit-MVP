@@ -23,6 +23,8 @@ public class Mvp00Fragment extends BaseFragment implements View.OnClickListener,
 
     IGankPresenter mPresenter = getPresenter();
 
+    static public final String TAG = "Mvp00Fragment";
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

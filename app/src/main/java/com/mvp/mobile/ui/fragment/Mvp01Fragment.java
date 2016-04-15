@@ -12,6 +12,8 @@ public class Mvp01Fragment extends BaseFragment{
 
     private View fragmentLayout;
 
+    static public final String TAG = "Mvp01Fragment";
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

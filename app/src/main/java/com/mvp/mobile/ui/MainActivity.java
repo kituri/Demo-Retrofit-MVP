@@ -30,7 +30,7 @@ public class MainActivity extends BaseActivity {
     private Mvp02Fragment df;
     private Mvp03Fragment mf;
 
-    static final String tags[] = {"", "", "", ""};
+    static final String tags[] = {Mvp00Fragment.TAG, Mvp01Fragment.TAG, Mvp02Fragment.TAG, Mvp03Fragment.TAG};
 
     static final String TAG = "MainActivity";
 
