@@ -9,7 +9,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="@string/cap_bb_menu_my_lesson"
+        android:text="@string/cap_bb_menu_00"
         android:id="@+id/textView" />
 
     <Button
