@@ -6,112 +6,112 @@
         jumboMode="true"
         revision="24.0.0 rc2"
         sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
-        <dex dex="E:\0_git_work\Demo-Retrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_1f780212fb9ffc7baba87898e6b5a97e8debcbe9\classes.dex" />
+        <dex dex="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_1f780212fb9ffc7baba87898e6b5a97e8debcbe9\classes.dex" />
     </item>
     <item
-        jar="E:\0_git_work\Demo-Retrofit\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0 rc2"
-        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
-        <dex dex="E:\0_git_work\Demo-Retrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_dc38d2d62cf21b56ca4bfab569eac69e1af268c1\classes.dex" />
-    </item>
-    <item
-        jar="E:\0_git_work\Demo-Retrofit\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jar="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
         jumboMode="true"
         revision="24.0.0 rc2"
         sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
-        <dex dex="E:\0_git_work\Demo-Retrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_f5ea1a2edc3feb9cae5995f5cf0ab31221ba9d42\classes.dex" />
+        <dex dex="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_e8ada43a9698a08e7808f2d8f04d4c126d1905d3\classes.dex" />
     </item>
     <item
-        jar="E:\0_git_work\Demo-Retrofit\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jar="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.0 rc2"
-        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
-        <dex dex="E:\0_git_work\Demo-Retrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_943d694e6da61097059e177bcb0d11db2fdd212e\classes.dex" />
+        sha1="8ba1c4f06ba769b2e339a809c1c991dde093b49b">
+        <dex dex="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_96ae6801b16cb506e412417539b3e99cb542aef4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\1.3.3\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="febdca0af7e75d9e2d621fd99be05dfbfd2667ed">
+        <dex dex="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.roughike-bottom-bar-1.3.3_bff6cbf0a8f27919257ccf845e3a21a61b142ab3\classes.dex" />
     </item>
     <item
         jar="C:\Users\kirijin\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
         jumboMode="true"
         revision="24.0.0 rc2"
         sha1="f1bc476cc167b18e66c297df599b2377131a8947">
-        <dex dex="E:\0_git_work\Demo-Retrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_15b80bb8658e80cc3eb40fb03dcf2ab16b20b898\classes.dex" />
+        <dex dex="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_15b80bb8658e80cc3eb40fb03dcf2ab16b20b898\classes.dex" />
     </item>
     <item
         jar="C:\Users\kirijin\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.1\27293c440d2085cde1d859528aff6e7d3b6ae40\retrofit-2.0.1.jar"
         jumboMode="true"
         revision="24.0.0 rc2"
         sha1="027293c440d2085cde1d859528aff6e7d3b6ae40">
-        <dex dex="E:\0_git_work\Demo-Retrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.1_800854eaab3068660d3ea940d21af392a1b08b28\classes.dex" />
+        <dex dex="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.1_800854eaab3068660d3ea940d21af392a1b08b28\classes.dex" />
     </item>
     <item
-        jar="E:\0_git_work\Demo-Retrofit\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jar="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
         jumboMode="true"
         revision="24.0.0 rc2"
-        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
-        <dex dex="E:\0_git_work\Demo-Retrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_02d3bbb1a2e40a4ee143e9bc8c213ee8c109952b\classes.dex" />
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.1_c043ac831678444886882c5e7b50cfc4ccb81306\classes.dex" />
     </item>
     <item
-        jar="E:\0_git_work\Demo-Retrofit\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
         jumboMode="true"
         revision="24.0.0 rc2"
-        sha1="b9a87de0d8acaa2e2dd899bf263f85c2d4941fe9">
-        <dex dex="E:\0_git_work\Demo-Retrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2c5f0760f6b76d2639c38167a26648dce3ad655a\classes.dex" />
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_2a4b94c1705e7c75bb574210271c161c4080d9df\classes.dex" />
     </item>
     <item
-        jar="E:\0_git_work\Demo-Retrofit\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="24.0.0 rc2"
-        sha1="e67043c071afa7e262bcaa5e12ef27695b727526">
-        <dex dex="E:\0_git_work\Demo-Retrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6a65905e0402147dac0699e9e0062dca44597a80\classes.dex" />
-    </item>
-    <item
-        jar="E:\0_git_work\Demo-Retrofit\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jar="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
         jumboMode="true"
         revision="24.0.0 rc2"
         sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
-        <dex dex="E:\0_git_work\Demo-Retrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_469f2f5db839a0acf1902ff8d09830f87f4ddff7\classes.dex" />
+        <dex dex="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_e7aef6284b65c3babfada646ba76bfbeb430b152\classes.dex" />
     </item>
     <item
-        jar="E:\0_git_work\Demo-Retrofit\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jar="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
         jumboMode="true"
         revision="24.0.0 rc2"
-        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
-        <dex dex="E:\0_git_work\Demo-Retrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_bc7616510cb609e43e9356ab820e4d1d57d10781\classes.dex" />
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_6db6ac023219a603eaa7cdc5ebc0e3700a035457\classes.dex" />
     </item>
     <item
         jar="C:\Users\kirijin\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.1\2780d858273ce1bb90f6b12e1ef0d40f7741fca\converter-gson-2.0.1.jar"
         jumboMode="true"
         revision="24.0.0 rc2"
         sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
-        <dex dex="E:\0_git_work\Demo-Retrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.1_34b51010ec442a8c5cba2957f5fbfbd18c3d662f\classes.dex" />
+        <dex dex="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.1_34b51010ec442a8c5cba2957f5fbfbd18c3d662f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="5aeeb68b13de5b3dd30a350f9bae765b869ba09b">
+        <dex dex="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_285deb3908490909ee32e81a4721521ebae59dc6\classes.dex" />
     </item>
     <item
         jar="C:\Users\kirijin\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
         jumboMode="true"
         revision="24.0.0 rc2"
         sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="E:\0_git_work\Demo-Retrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_87835025e16dbbb3022cb15ef635fcf756265a30\classes.dex" />
+        <dex dex="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_87835025e16dbbb3022cb15ef635fcf756265a30\classes.dex" />
     </item>
     <item
-        jar="E:\0_git_work\Demo-Retrofit\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\1.3.3\jars\classes.jar"
+        jar="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
         jumboMode="true"
         revision="24.0.0 rc2"
-        sha1="febdca0af7e75d9e2d621fd99be05dfbfd2667ed">
-        <dex dex="E:\0_git_work\Demo-Retrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.roughike-bottom-bar-1.3.3_e134354c4828663a7a17030eaf3f48463ebb3fb6\classes.dex" />
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.1_ce1fc7044e5ed286bf7d6bd2a605f788d8438677\classes.dex" />
     </item>
     <item
         jar="E:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
         jumboMode="true"
         revision="24.0.0 rc2"
         sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
-        <dex dex="E:\0_git_work\Demo-Retrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_7c67d4cf9e2ce44b1fd26b1bcb3ab7dca3dd14b3\classes.dex" />
+        <dex dex="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_7c67d4cf9e2ce44b1fd26b1bcb3ab7dca3dd14b3\classes.dex" />
     </item>
     <item
-        jar="E:\0_git_work\Demo-Retrofit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jar="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
         jumboMode="true"
         revision="24.0.0 rc2"
         sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
-        <dex dex="E:\0_git_work\Demo-Retrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_4587e2e0e6cc9a1f2704b44db81eb242337bb96a\classes.dex" />
+        <dex dex="C:\Users\kirijin\Documents\GitHub\Demo-Retrofit-MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_5b8ace49b79a73659a97bbaa6caefd9eb6207b1f\classes.dex" />
     </item>
 
 </items>

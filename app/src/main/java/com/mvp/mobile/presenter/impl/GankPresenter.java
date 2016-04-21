@@ -3,6 +3,7 @@ package com.mvp.mobile.presenter.impl;
 import com.mvp.mobile.IBaseView.IGankView;
 import com.mvp.mobile.data.MeizhiData;
 import com.mvp.mobile.model.net.GankApi;
+import com.mvp.mobile.model.retrofit.RetGankMeizhi;
 import com.mvp.mobile.presenter.IGankPresenter;
 
 import retrofit2.Call;
@@ -22,7 +23,7 @@ public class GankPresenter extends BasePresenter implements IGankPresenter {
 
     @Override
     public void getMeizhiList(int page) {
-        meizhi = GankApi.getGankIOSingleton().getGankService().getMeizhiList(page);
+        meizhi = GankApi.getGankIOSingleton().getService(RetGankMeizhi.class).getMeizhiList(page);
         enqueue(meizhi, new Callback<MeizhiData>() {
             @Override
             public void onResponse(Call<MeizhiData> call, Response<MeizhiData> response) {
@@ -35,21 +36,5 @@ public class GankPresenter extends BasePresenter implements IGankPresenter {
             }
         });
     }
-
-//    @Override
-//    public void doLogin(String userName, String pwd) {
-//        //TODO CHECK PARAMS
-//        Log.i(MyHttp.TAG,"发起登录请求");
-//        executeSync(new LoginModel(userName,pwd).setMyHttpListener(new MyHttpListener<BaseEntity>(this) {
-//
-//            @Override
-//            public void onSuccessOk(BaseEntity s, Response<BaseEntity> response) {
-//                super.onSuccessOk(s, response);
-//                mILoginView.onLoginSuccess();
-//                Log.i(MyHttp.TAG,"response" + response.getResult());
-//            }
-//        }));
-//    }
-
 
 }
