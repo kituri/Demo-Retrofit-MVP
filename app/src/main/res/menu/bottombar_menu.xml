@@ -2,20 +2,20 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/bb_menu_my_lesson"
-        android:icon="@drawable/bb_menu_00"
-        android:title="@string/cap_bb_menu_00" />
+        android:id="@+id/bb_menu_lessons"
+        android:icon="@drawable/bb_menu_lessons"
+        android:title="@string/cap_bb_menu_lessons" />
     <item
         android:id="@+id/bb_menu_schedule"
-        android:icon="@drawable/bb_menu_01"
-        android:title="@string/cap_bb_menu_01" />
+        android:icon="@drawable/bb_menu_scheduled"
+        android:title="@string/cap_bb_menu_scheduled" />
     <item
         android:id="@+id/bb_menu_discover"
-        android:icon="@drawable/bb_menu_02"
-        android:title="@string/cap_bb_menu_02" />
+        android:icon="@drawable/bb_menu_discover"
+        android:title="@string/cap_bb_menu_discover" />
     <item
-        android:id="@+id/bb_menu_mine"
-        android:icon="@drawable/bb_menu_03"
-        android:title="@string/cap_bb_menu_03" />
+        android:id="@+id/bb_menu_me"
+        android:icon="@drawable/bb_menu_me"
+        android:title="@string/cap_bb_menu_me" />
 
 </menu>

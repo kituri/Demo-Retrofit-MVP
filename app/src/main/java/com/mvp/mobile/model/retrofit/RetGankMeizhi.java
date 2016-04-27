@@ -13,6 +13,4 @@ import retrofit2.http.Path;
 public interface RetGankMeizhi {
     @GET("data/福利/10/{page}")
     Call<MeizhiData> getMeizhiList(@Path("page") int page);
-    @GET("data/福利/10/{page}")
-    Call<MeizhiData> getMeizhiList2(@Path("page") int page);
 }

@@ -10,4 +10,7 @@ public interface IBaseView {
     void onSuccess();
 
     void onNetWorkError();
+
+
+
 }

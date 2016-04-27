@@ -2,4 +2,6 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="home_header_height">201dp</dimen>
+    <dimen name="normal_list_padding_bottom">36dp</dimen>
 </resources>

@@ -27,7 +27,7 @@ public class MeizhiData extends Entry {
         return this.results;
     }
 
-    public class Results {
+    public class Results extends Entry{
         private String _id;
 
         private String createdAt;

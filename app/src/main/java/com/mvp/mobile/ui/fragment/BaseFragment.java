@@ -5,14 +5,14 @@ import android.os.Bundle;
 import android.support.v4.app.Fragment;
 
 import com.mvp.mobile.IBaseView.IBaseView;
-import com.mvp.mobile.presenter.IBasePresenter;
-import com.mvp.mobile.presenter.impl.BasePresenter;
-import com.mvp.mobile.ui.BaseActivity;
+import com.mvp.mobile.presenter.BasePresenter;
+import com.mvp.mobile.presenter.BasePresenterImpl;
+import com.mvp.mobile.ui.base.BaseActivity;
 
 
 public class BaseFragment extends Fragment implements IBaseView {
 
-    public IBasePresenter presenter = getPresenter();
+    public BasePresenter presenter = getPresenter();
 
     protected BaseActivity baseActivity;
 
@@ -38,12 +38,12 @@ public class BaseFragment extends Fragment implements IBaseView {
 
     }
 
-    public BasePresenter getPresenter() {
-        return new BasePresenter(this);
+    public BasePresenterImpl getPresenter() {
+        return new BasePresenterImpl(this);
     }
 
-    public BaseActivity getBaseAppCompatActivity(){
-        Activity act=getActivity();
+    public BaseActivity getBaseActivity(){
+        Activity act = getActivity();
         if(act instanceof BaseActivity){
             return (BaseActivity)act;
         }
