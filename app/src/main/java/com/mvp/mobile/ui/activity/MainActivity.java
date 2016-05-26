@@ -94,7 +94,7 @@ public class MainActivity extends BaseActivity {
 
         // Necessary to restore the BottomBar's state, otherwise we would
         // lose the current tab on orientation change.
-        stateCheck(outState);
+        //stateCheck(outState);
         if(mBottomBar != null){
             mBottomBar.onSaveInstanceState(outState);
         }
